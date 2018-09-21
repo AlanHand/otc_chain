@@ -1,0 +1,125 @@
+{
+  "txs": [
+    {
+      "address": "1Mu1L46Xf3cP5oFBWsNa4MePxdL9L36DH5",
+      "amount": 10000000,
+      "type": "transaction_type_coinbase"
+    },
+    {
+      "address": "1KMZ7ckiAJcyrm7tA2RfQrSpGRSsuEQEFE",
+      "amount": 10000000,
+      "type": "transaction_type_coinbase"
+    },
+    {
+      "address": "1Kjhjwx3FYe26ce91JEFdF46WN1DuL3wMZ",
+      "amount": 80000000,
+      "type": "transaction_type_coinbase"
+    },
+    {
+      "address": "149b9sDwtkTP1oXYg46VqF3JxhBE8LNcqR",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1KCaFYt43N3GmgGyNfzCfLrRwGLUuv2b3i",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "12uYQp9tPZJ49n6Siz7Qoj4smS2fLHQzWH",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "19D5AJoeFF5pi7zCCuhESar8VFKuoXCi7f",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1KYa7yPdbTv3tiQyhDJGQvt1Zvjn3gEBmm",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "15EmdNPmCqUQvNL1n8BPuKvvVPPKsMu5wU",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1MS6eivtXdm9kjrLDagTgiHkBzhDSQabh6",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "184Sd7HiX127rx8pr7W8WfswFBSZv6Eu8N",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "139x4Zc55qtn6s2uHdQibwUUMm67azxJv8",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1BPv5nGM14jY1m4mRDDqi2ZBxFsydz6hcK",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "16ARHMePPVWbey7vYRPXoeRByjduhqjFzt",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "16XgH8QRHfbp3K8TKh7zEXA4BBTPx4iJPF",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1EmfivMDPyY42ihbJQFt3iJ5p8KEEsrjcc",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1FLqzuEVTGwnrdmJknRrQer1izprVRsSNf",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "188SFMfp1Lq2eBvwWTz8dEpSavnNroDdXc",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1FPmf3mVWv97ei6Siy3hsjfcC1eumkPaRX",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "156BUjUPXJJ59c9MAe5hgNBQkQvEHe61un",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "14d5qHimG2rGhfBf8uNEfh4Pth7cZkwbdN",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "177QY6Aj1HTrN3XaQGfpcrhRsN5dZWnjrn",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1MWDaJRartw3xSfGLrdYMAAdsQdHRgnZj1",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    },
+    {
+      "address": "1NTH2eQL9PrErxGQSzxs9hKA4zT8JGNQ6U",
+      "amount": 1,
+      "type": "transaction_type_voted"
+    }
+
+  ]
+}
