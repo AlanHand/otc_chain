@@ -104,6 +104,8 @@ public class CLI {
      */
     private static void randomTransfer(CLI cli , Set<String> addSet) {
 
+
+
         List<String> addressList = new ArrayList<>();
         for(String add : addSet){
             addressList.add(add);
